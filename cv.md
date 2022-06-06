@@ -1,4 +1,4 @@
-# Alena Yanushka ![photo](https://ibb.co/RC10FD8)
+# Alena Yanushka ![photo](D:\RS-SCHOOL\rsschool-cv\IMG_20210913.png)
 # Contact information:
 * Phone: +375298818529
 * Email: alena.yanushka2210@gmail.com
@@ -11,8 +11,7 @@ I'm a technical specialist in online schools. I create websites in the construct
 * HTML
 * CSS
 # Code examples
-```
-<ul>
+```<ul>
 <li>
 Add cv file   
 <ul>    
